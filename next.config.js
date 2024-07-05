@@ -1,7 +1,7 @@
 // next.config.js
 
 module.exports = {
-    basePath: '/your-repo-name',
-    assetPrefix: '/your-repo-name/',
+    basePath: 'front5',
+    assetPrefix: 'front5',
   };
   
